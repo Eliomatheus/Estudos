@@ -1,2 +1,2 @@
-# Dia-desavio-github-primeiro-repositorio
+# Dio-desafio-github-primeiro-repositorio
 meu primeiro repositorio com a Dio
