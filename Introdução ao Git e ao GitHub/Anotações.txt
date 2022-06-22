@@ -1,1 +1,6 @@
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+Para adicionar todos os arquivos pode da: git add . ou git add -A
+Para mandar o arquivo para o GitHub precisa, da um commit -m + "comentario do arquivo",
+git push origin main, para enviar todos os commits para a nuven do GitHub.
+
+
