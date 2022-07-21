@@ -1,3 +1,3 @@
-# Desafio de projeto sobre Git/GitHub da DIO
+# Estudos 
 
-Repositório criado para o Desafio de Projeto 
+Repositório criado para o postagem de estudos
